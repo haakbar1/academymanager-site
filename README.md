@@ -69,3 +69,4 @@ git push
 ```
 
 When you make changes that affect what data you collect, also bump the **Effective date** at the top of `privacy.md`.
+# academymanager-site
