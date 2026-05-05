@@ -5,7 +5,7 @@ title: Support — Academy Manager
 
 # Support
 
-Need help with Academy Manager? Email **support@academymanager.app** *(replace with your real address before publishing)* — we usually reply within a couple of business days.
+Need help with Academy Manager? Email **hashimaakbar@gmail.com** — we usually reply within a couple of business days.
 
 When you write in, it helps to include:
 
@@ -62,7 +62,7 @@ PDF reports include the Academy Manager logo as a watermark and a footer with yo
 
 ## Contact
 
-Email: **support@academymanager.app** *(replace with your real address before publishing)*
+Email: **hashimaakbar@gmail.com**
 
 ---
 

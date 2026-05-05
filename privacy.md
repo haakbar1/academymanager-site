@@ -62,7 +62,7 @@ We may update this policy if the app's behavior changes. Material changes will b
 
 If you have questions about this policy:
 
-- Email: **support@academymanager.app** *(replace with your real address before publishing)*
+- Email: **hashimaakbar@gmail.com**
 
 ---
 
