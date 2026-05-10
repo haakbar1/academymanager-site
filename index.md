@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Academy Manager
+title: Academy Director
 ---
 
-# Academy Manager
+# Academy Director
 
 A simple iOS app for running a sports academy: branches, courts, coaches, memberships, schedules, attendance, inventory, and monthly reports — all stored privately on your device.
 

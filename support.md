@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Support — Academy Manager
+title: Support — Academy Director
 ---
 
 # Support
 
-Need help with Academy Manager? Email **hashimaakbar@gmail.com** — we usually reply within a couple of business days.
+Need help with Academy Director? Email **hashimaakbar@gmail.com** — we usually reply within a couple of business days.
 
 When you write in, it helps to include:
 
@@ -56,7 +56,7 @@ Yes — within the same iPhone or iPad. Create separate user accounts for each r
 
 ### How are reports formatted?
 
-PDF reports include the Academy Manager logo as a watermark and a footer with your academy name (set in Settings → Academy). They open in any PDF viewer and can be emailed, AirDropped, printed, or saved to Files.
+PDF reports include the Academy Director logo as a watermark and a footer with your academy name (set in Settings → Academy). They open in any PDF viewer and can be emailed, AirDropped, printed, or saved to Files.
 
 ---
 

@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Privacy Policy — Academy Manager
+title: Privacy Policy — Academy Director
 ---
 
 # Privacy Policy
 
 **Effective date:** 2026-05-01
-**App:** Academy Manager (iOS)
+**App:** Academy Director (iOS)
 
-This privacy policy describes how the Academy Manager app handles information. Academy Manager is a local-first app: it does not have a backend server, and the developer does not receive, see, or store any data you put into the app.
+This privacy policy describes how the Academy Director app handles information. Academy Director is a local-first app: it does not have a backend server, and the developer does not receive, see, or store any data you put into the app.
 
 ## What data the app collects
 
@@ -40,7 +40,7 @@ You can refuse access; the app will continue to work without a logo.
 
 ## Local notifications
 
-The app schedules local notifications on your device to alert you about expiring memberships, low equipment stock, group memberships outside their expected size, and confirmations after manually adding a member in Attendance. These notifications are produced and delivered by your device — they are not sent through any external service. You can turn them off at any time in iOS Settings → Notifications → Academy Manager.
+The app schedules local notifications on your device to alert you about expiring memberships, low equipment stock, group memberships outside their expected size, and confirmations after manually adding a member in Attendance. These notifications are produced and delivered by your device — they are not sent through any external service. You can turn them off at any time in iOS Settings → Notifications → Academy Director.
 
 ## Reports and sharing
 
@@ -48,7 +48,7 @@ When you generate a PDF or CSV report from inside the app, the file is created a
 
 ## Children's data
 
-Academy Manager is intended for academy operators (managers, administrators, and coaches), not for children. As an operator, you may enter information about members of your academy, including minors. You are responsible for obtaining any necessary consent from members or their guardians to record this information. The app stores it only on your device, as described above.
+Academy Director is intended for academy operators (managers, administrators, and coaches), not for children. As an operator, you may enter information about members of your academy, including minors. You are responsible for obtaining any necessary consent from members or their guardians to record this information. The app stores it only on your device, as described above.
 
 ## Account deletion
 
